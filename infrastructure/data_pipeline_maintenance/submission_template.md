@@ -6,12 +6,13 @@ Individual Submission
 
 ## Pipeline Owners
 
-Primary Owners:
-Data Engineer: Anjala Abdul Rehman (@anjala)
-Financial Analyst: Ifunanya Balogunt (@ibalogun)
-Secondary Owners:
-Data Engineer: Jane Doe (@jdoe)
-Business Analyst: Hanan Hashim (@hanahash)
+- Primary Owners:
+  - Data Engineer: Anjala Abdul Rehman (@anjala)
+  - Financial Analyst: Ifunanya Balogunt (@ibalogun)
+    
+-  Secondary Owners:
+    - Data Engineer: Jane Doe (@jdoe)
+    - Business Analyst: Hanan Hashim (@hanahash)
 
 ## On-Call Rotation
 
